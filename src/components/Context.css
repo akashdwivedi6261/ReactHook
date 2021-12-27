@@ -1,0 +1,14 @@
+.align {
+  width: 30rem;
+  margin: auto;
+  text-align: center;
+  color: red;
+  background-color: rgb(116, 150, 196);
+  padding: 6rem;
+}
+.align > button {
+  margin: 10px;
+  background-color: gold;
+  padding: 8px;
+  font-size: 20px;
+}
